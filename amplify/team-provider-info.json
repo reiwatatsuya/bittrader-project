@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bittarderproject-dev-8f85f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::992382634231:role/amplify-bittarderproject-dev-8f85f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::992382634231:role/amplify-bittarderproject-dev-8f85f-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-bittarderproject-dev-8f85f-deployment",
+      "UnauthRoleName": "amplify-bittarderproject-dev-8f85f-unauthRole",
+      "StackName": "amplify-bittarderproject-dev-8f85f",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:992382634231:stack/amplify-bittarderproject-dev-8f85f/282818c0-a55e-11ef-a3b3-0e0bac41927f",
+      "AmplifyAppId": "d25zs5g7l3cd3p"
+    },
+    "categories": {
+      "auth": {
+        "bittarderproject8b8b0cfb": {}
+      }
+    }
+  }
+}
